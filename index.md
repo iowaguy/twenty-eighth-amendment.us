@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 28th Amendment
 ---
 
 Proposing an amendment to the Constitution of the United States providing that the rights protected and extended by the Constitution are the rights of natural persons only.
